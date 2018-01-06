@@ -1,0 +1,3 @@
+/Users/jmacca/Documents/Unreal Projects/StealthGame/Source/FPSGame/FPSGame.Build.cs
+/Users/jmacca/Documents/Unreal Projects/StealthGame/Source/FPSGame.Target.cs
+/Users/jmacca/Documents/Unreal Projects/StealthGame/Source/FPSGameEditor.Target.cs
